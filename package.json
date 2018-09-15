@@ -1,0 +1,23 @@
+{
+  "name": "mesesh-tools",
+  "version": "1.0.0",
+  "description": "tools for the Sandspires of Mesesh ARPG",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaylapham/mesesh-tools.git"
+  },
+  "author": "Jay Lapham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaylapham/mesesh-tools/issues"
+  },
+  "homepage": "https://github.com/jaylapham/mesesh-tools#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "random-weighted-choice": "^0.1.3"
+  }
+}
