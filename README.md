@@ -5,7 +5,7 @@ tools for the Sandspire of Mesesh ARPG
 * node.js runtime
 
 # setup
-after cloning the repository, run "npm install" in the repository's folder
+after cloning the repository, run ```npm install``` in the repository's folder
 
 # Genotype Roller
 creates genotypes for new Avlets. usage: ```node genoRoller.js```
