@@ -1,6 +1,3 @@
-// make sure you "npm install --save lodash random-weighted-choice" before you run this
-// you can also use/create a batch file with "node genoRoller.js | clip" on windows to automatically dump the result into your clipboard
-
 const _ = require('lodash');
 const rwc = require('random-weighted-choice');
 
