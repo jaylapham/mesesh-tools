@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jaylapham/mesesh-tools#readme",
   "dependencies": {
+    "async": "^2.6.1",
     "lodash": "^4.17.11",
     "random-weighted-choice": "^0.1.3"
   }
