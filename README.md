@@ -11,3 +11,6 @@ after cloning the repository, run ```npm install``` in the repository's folder
 creates genotypes for new Avlets. usage: ```node genoRoller.js```
 
 on Windows you can additionally automatically save the output to your clipboard with ```node genoRoller.js | clip```
+
+# Activity Roller
+rolls various activties handlers/Avlets can perform. a CLI tool. usage: ```node activityRoller.js``` 
